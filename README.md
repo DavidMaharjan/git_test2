@@ -1,3 +1,3 @@
 # git_test2
 
-Hello Odin
+Hello This is a demo from Odin project
